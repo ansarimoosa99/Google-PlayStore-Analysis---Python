@@ -1,0 +1,1 @@
+Paste the folder in the desktop and run the application without changing any path.
